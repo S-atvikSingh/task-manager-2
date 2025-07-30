@@ -27,7 +27,7 @@ A full-stack task management application built with FastAPI (Python) for the bac
 - **React**
 - **Bootstrap**
 
--
+
 ## Getting Started
 
 **Backend**
